@@ -18,4 +18,3 @@ Semaphores used :-
 Mutex Lock used :-
 	
   1.To lock and unlock variable ChairsCount to increment and decrement its value.
-
